@@ -1,4 +1,4 @@
-# Lesson Title
+# Java Basic Syntax
 
 ## Learning Goals
 
