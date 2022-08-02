@@ -7,7 +7,7 @@
 ## The Curly Braces
 
 We have discussed 2 main groupings thus far: the class and the method. We will go more in depth on what a class and 
-method are in the upcoming lessons. For now, know that A class is a grouping of methods and a method is a grouping of
+method are in the upcoming lessons. For now, know that a class is a grouping of methods and a method is a grouping of
 instructions. There are many other ways to group instructions in Java, which we will cover later,
 but all of these groupings have something in common: they start and stop with curly braces.
 
